@@ -1,4 +1,4 @@
 .env
 env_utils.py
-.sh
-.pickle
+*.sh
+*.pickle
